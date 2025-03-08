@@ -1,9 +1,9 @@
 export const header = {
-  quote: "A short quote",
-  website: "Digital Course Name",
+  quote: '"Neural networks don’t just compute; they learn, adapt, and create."',
+  website: "FUMNEURON",
   institute:
     '<span class="text-red-light">F</span>erdowsi <span class="text-red-light">U</span>niversity Of <span class="text-red-light">M</span>ashhad',
-  course: '<span class="text-red-light">Course</span> Name',
+  course: '<span class="text-red-light">Neural</span> Network & <span class="text-red-light">Deep</span> Learning',
   background:
-    "https://wallpaperbat.com/img/289369-neural-networks-the-theoretical-understanding-data-scientist.jpg",
+    "https://wallpaperaccess.com/full/1846920.jpg",
 };
