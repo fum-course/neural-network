@@ -10,10 +10,10 @@ export const lectures = [
         labelInfo: "Slide",
       },
       {
-        type: "video", // optional - just video has tag
+        type: "video",
         text: "Introduction",
-        link: "https://drive.google.com/file/d/1oDDoiWZp3yiiiBWO7HQouHUyhwsJI_NU/view?usp=sharing",
-        labelInfo: "01:09:51",
+        link: "https://drive.google.com/file/d/1Bzx-ugiDVFUyEXGLF4Tyvlztj_CkT40B/view?usp=sharing",
+        labelInfo: "00:54:01",
       },
       {
         type: "video",
@@ -37,6 +37,46 @@ export const lectures = [
         text: "Simple Neoron",
         link: "https://drive.google.com/file/d/1pyxQZy73laXrmC1CJeL80lTCwJefdtYy/view?usp=sharing",
         labelInfo: "00:50:48",
+      },
+    ],
+  },
+   {
+    text: "Optimization",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/1gTcmGHLUhFlXiS5hBrP3wQywiWmJ7xoK/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Introduction to optimization and its types",
+        link: "https://drive.google.com/file/d/1o8J4WgNh6GiNdaE1FlagT3iU__oCHhgg/view?usp=sharing",
+        labelInfo: "01:31:22",
+      },
+    ],
+  },
+      {
+    text: "Backpropagation",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/1hgXaKLJYoLuZ98v_4I7lx2OFY6rYaC-C/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Backpropagation - part 1",
+        link: "https://drive.google.com/file/d/1sxsi1WPwvBUmHHgvZYDrOUDQhrVI3BJd/view?usp=sharing",
+        labelInfo: "01:02:25",
+      },
+      {
+        type: "video",
+        text: "Backpropagation - part 2",
+        link: "https://drive.google.com/file/d/1eKJYZBRzmHOPt8QSwFrjyewj-yJldwvE/view?usp=sharing",
+        labelInfo: "01:20:34",
       },
     ],
   },
