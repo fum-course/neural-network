@@ -1,5 +1,5 @@
 export const meta = {
-  title: "FUMCLOUD | Ferdowsi Cloud Computing",
+  title: "FUMNeuron | Ferdowsi Neural Network & Deep Learning",
   description:
-    "Ferdowsi University of Mashhad(FUM) cloud computing course page",
+    "Ferdowsi University of Mashhad(FUM) Neural Network & Deep Learning course page",
 };
