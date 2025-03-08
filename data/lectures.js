@@ -23,36 +23,23 @@ export const lectures = [
       },
     ],
   },
-  // {
-  //   text: "Introduction to Course",
-  //   requirements: "You and your motivation.", // optional
-  //   startText: "Lets start to know what is the course and how it improve...", // optional
-  //   sections: [
-  //     {
-  //       text: "Lecture Slide",
-  //       link: "#",
-  //       labelInfo: "Slide",
-  //     },
-  //     {
-  //       type: "video", // optional - just video has tag
-  //       text: "Introduction to course, what is course?",
-  //       link: "#",
-  //       labelInfo: "01:09:51",
-  //     },
-  //     {
-  //       type: "video",
-  //       text: "Course part 1",
-  //       link: "#",
-  //       labelInfo: "01:22:58",
-  //     },
-  //     {
-  //       type: "video",
-  //       text: "Course part 2",
-  //       link: "#",
-  //       labelInfo: "01:19:41",
-  //     },
-  //   ],
-  // },
+  {
+    text: "Simple Neoron - perceptron",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/1T4BbtizmPrBhcK2ER57uaHqei0c9NVWe/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Simple Neoron",
+        link: "https://drive.google.com/file/d/1pyxQZy73laXrmC1CJeL80lTCwJefdtYy/view?usp=sharing",
+        labelInfo: "00:50:48",
+      },
+    ],
+  },
   // {
   //   text: "Cloud Reference Architecture",
   //   startText:
