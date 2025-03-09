@@ -9,7 +9,7 @@ export default function CourseLecture({
     return (
         <details className="bg-gray-dark bg-opacity-15 p-3 md:p-4 rounded-lg items-center gap-4">
             <summary className="font-semibold cursor-pointer flex justify-between">
-                <span className="px-2 ml-0">
+                <span className="px-2 ml-0 mr-auto">
                     Lecture {num} - {text}
                 </span>
                 {tag && (
