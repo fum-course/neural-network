@@ -57,12 +57,12 @@ export const lectures = [
       },
     ],
   },
-      {
+  {
     text: "Backpropagation",
     startText: "for higher video quality download video, then watch it",
     sections: [
       {
-        text: "Lecture Slide",
+        text: "Lecture Slide - part 1",
         link: "https://drive.google.com/file/d/1hgXaKLJYoLuZ98v_4I7lx2OFY6rYaC-C/view?usp=sharing",
         labelInfo: "Slide",
       },
@@ -73,10 +73,99 @@ export const lectures = [
         labelInfo: "01:02:25",
       },
       {
+        text: "Lecture Slide - part 2",
+        link: "https://drive.google.com/file/d/1iOUQwm-rP4CGulHMKmhnqPBWPXCoNcC4/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
         type: "video",
         text: "Backpropagation - part 2",
         link: "https://drive.google.com/file/d/1eKJYZBRzmHOPt8QSwFrjyewj-yJldwvE/view?usp=sharing",
         labelInfo: "01:20:34",
+      },
+      {
+        text: "Lecture Slide - part 3",
+        link: "https://drive.google.com/file/d/1OrAAL0Gt-gagdH3Yn_R6I0q96xQ8EWGq/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Backpropagation - part 3",
+        link: "https://drive.google.com/file/d/1qPkQMNixNpkzP3p4Z6AfbSAnAgZsc8zI/view?usp=sharing",
+        labelInfo: "00:26:19",
+      },
+    ],
+  },
+  {
+    text: "Convolution Layers",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide - part 1",
+        link: "#",
+        labelInfo: "preparing",
+      },
+      {
+        type: "video",
+        text: "Convolution - part 1",
+        link: "https://drive.google.com/file/d/1ez-gnaO9JXdyCPMu3_uGT9ucAnQkEDKR/view?usp=sharing",
+        labelInfo: "00:51:56",
+      },
+      {
+        text: "Lecture Slide - part 2",
+        link: "https://drive.google.com/file/d/1h06CN2BjGpdJntbBKexykM2tyPelmspj/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Convolution - part 2",
+        link: "https://drive.google.com/file/d/1Wints1VO9PPCcEaP3-BL3y-XPKWZxEMr/view?usp=sharing",
+        labelInfo: "00:52:07",
+      },
+      {
+        text: "Lecture Slide - part 3",
+        link: "https://drive.google.com/file/d/189xapVlPctTN3VjlZw_oS7PhNR_pbxVe/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Convolution - part 3",
+        link: "https://drive.google.com/file/d/1GYy9GB1QerV6xOM3Rj-RJi_kwbMMSvkE/view?usp=sharing",
+        labelInfo: "01:00:02",
+      },
+    ],
+  },
+ {
+    text: "Generative Adversarial Networks",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/1naIBSZ4El31PihI498L1CWnHcbnj4yN3/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "GAN",
+        link: "https://drive.google.com/file/d/1D1e7GDhoj4bmZK8WkI7EB3lRKX_1WCws/view?usp=sharing",
+        labelInfo: "00:38:23",
+      },
+    ],
+  },
+ {
+    text: "Weight Visualization & XAI",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/11oHXhgFMu6fgwml2YpomVyCAnkmU-Fzt/view?usp=sharing",
+        labelInfo: "preparing",
+      },
+      {
+        type: "video",
+        text: "Weight Visualization & XAI",
+        link: "https://drive.google.com/file/d/15MDwihC1VTzz1zM6WP3pOWkz1plZxbfk/view?usp=sharing",
+        labelInfo: "01:16:14",
       },
     ],
   },
