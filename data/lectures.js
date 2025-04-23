@@ -136,6 +136,23 @@ export const lectures = [
     ],
   },
  {
+    text: "Weight Visualization & XAI",
+    startText: "for higher video quality download video, then watch it",
+    sections: [
+      {
+        text: "Lecture Slide",
+        link: "https://drive.google.com/file/d/11oHXhgFMu6fgwml2YpomVyCAnkmU-Fzt/view?usp=sharing",
+        labelInfo: "Slide",
+      },
+      {
+        type: "video",
+        text: "Weight Visualization & XAI",
+        link: "https://drive.google.com/file/d/15MDwihC1VTzz1zM6WP3pOWkz1plZxbfk/view?usp=sharing",
+        labelInfo: "01:16:14",
+      },
+    ],
+  },
+ {
     text: "Generative Adversarial Networks",
     startText: "for higher video quality download video, then watch it",
     sections: [
@@ -152,23 +169,7 @@ export const lectures = [
       },
     ],
   },
- {
-    text: "Weight Visualization & XAI",
-    startText: "for higher video quality download video, then watch it",
-    sections: [
-      {
-        text: "Lecture Slide",
-        link: "https://drive.google.com/file/d/11oHXhgFMu6fgwml2YpomVyCAnkmU-Fzt/view?usp=sharing",
-        labelInfo: "preparing",
-      },
-      {
-        type: "video",
-        text: "Weight Visualization & XAI",
-        link: "https://drive.google.com/file/d/15MDwihC1VTzz1zM6WP3pOWkz1plZxbfk/view?usp=sharing",
-        labelInfo: "01:16:14",
-      },
-    ],
-  },
+
   // {
   //   text: "Cloud Reference Architecture",
   //   startText:
